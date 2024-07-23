@@ -7,6 +7,5 @@ xhofe/alist:latest
 shellspec/openwrt
 oldiy/baidupcs
 linuxserver/qbittorrent
-uperng6/qbittorrent
 p3terx/aria2-pro
 gdy666/lucky
