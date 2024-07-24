@@ -9,3 +9,4 @@ oldiy/baidupcs
 linuxserver/qbittorrent
 p3terx/aria2-pro
 gdy666/lucky
+aoyutang/clash-and-dashboard
