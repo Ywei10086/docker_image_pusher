@@ -1,1 +1,1 @@
-ui-for-docker
+uifd/ui-for-docker
